@@ -210,17 +210,17 @@ AVERAGE_SHIPPING_COST DESC;
       
       2. What are the top 3 and bottom 3 regions in terms of sales?
 
- ### Top 3
+ #### Top 3
            REGION	TOTAL_SALES
             West	3597549.27
             Ontario	3063212.48
             Prarie	2837304.61
 
-### Bottom 3
-            REGION	                   TOTAL_SALES
-            Nunavut                 	116376.48
-            Northwest Territories	    800847.33
-            Yukon	                    975867.38
+#### Bottom 3
+            REGION	                       TOTAL_SALES
+            Nunavut                         116376.48
+            Northwest Territories	        800847.33
+            Yukon	                        975867.38
       
       3. What are the total sales of appliances in Ontario?
 
@@ -240,17 +240,17 @@ AVERAGE_SHIPPING_COST DESC;
 
       6. Who are the most valuable customers, and what product or services do they typically purchase?
 
-          CUSTOMER_NAME	        Product_Category	        TOTAL_SALES
-          Emily Phan	        Technology	                110481.97
-          Deborah Brumfield	    Technology	                76795.79
-          Dennis Kane	        Technology	                60434.64
-          Jasper Cacioppo	    Technology	                57739.27
-          Clytie Kelty	        Technology	                54454.95
-          Raymond Book	        Technology	                53450.78
-          Lisa DeCherney    	Furniture	                52477.37
-          Alejandro Grove	    Office Supplies	            51696.02
-          Grant Carroll        	Office Supplies	            50837.27
-          Roy Skaria	        Furniture	                50177.24
+          CUSTOMER_NAME	            Product_Category	            TOTAL_SALES
+          Emily Phan	            Technology	                    110481.97
+      Deborah Brumfield	            Technology	                    76795.79
+          Dennis Kane	            Technology	                    60434.64
+          Jasper Cacioppo	        Technology	                    57739.27
+          Clytie Kelty	            Technology	                    54454.95
+          Raymond Book	            Technology	                    53450.78
+          Lisa DeCherney    	    Furniture	                    52477.37
+          Alejandro Grove	        Office Supplies	                51696.02
+          Grant Carroll            	Office Supplies	                50837.27
+          Roy Skaria	            Furniture	                    50177.24
 
           
       7. Which small business customer has the highest sales?
